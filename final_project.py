@@ -731,6 +731,6 @@ do_training(
   encoder=sharpness_enc, 
   decoder=sharpness_dec,
   should_save=True,
-  loss_fn=l1_and_sharpness_loss
+  loss_fn=l2_loss
 )
 
