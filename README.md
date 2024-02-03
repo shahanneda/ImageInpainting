@@ -1,5 +1,5 @@
 # ImageInpainting
-### An implemention of the classic paper "ContextEncoders" along with some of my own improvments
+### An implementing of the classic paper "ContextEncoders" along with some of my own improvements
 
 ### Abstract:
 
