@@ -10,5 +10,8 @@ However, instead of taking the approach outlined in their paper of using an adve
 **Checkout the full write up and code of this project in the [notebook.ipynb](https://github.com/shahanneda/ImageInpainting/blob/main/notebook.ipynb)**
 
 
+
+![Final Result](./images/final_out.png)
+
 ### References
 https://www.cs.cmu.edu/~dpathak/context_encoder
